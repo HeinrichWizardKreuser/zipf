@@ -1,2 +1,8 @@
 # zipf
-Experimenting with Zipf's law and the Pareto principle
+Dependencies:
+```$ pip install matplotlib pandas```
+
+How to run it:
+```$ python3 zipf.py some-text-file.txt```
+
+Attached is the script for Romeo and Juliet
